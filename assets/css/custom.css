@@ -1,0 +1,12 @@
+/* Smaller navigation text */
+.tdmenu__navbar-wrap > ul > li > a {
+    font-size: 14px; /* Reduced from default */
+}
+
+.tdmenu__navbar-wrap > ul > li .sub-menu li a {
+    font-size: 13px; /* Reduced from default */
+}
+
+.tdmobile__menu .navigation li > a {
+    font-size: 14px; /* Reduced from default 15px */
+}
